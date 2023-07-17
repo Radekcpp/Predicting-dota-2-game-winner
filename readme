@@ -1,1 +1,2 @@
+Machine learning project, created with the purpose of predicting the winner(by calculating probablities of winning for both teams) of a Dota 2 game based on data from a given minute of a certain game.
 The project was created with the data from kaggle competition - https://www.kaggle.com/competitions/mlcourse-dota2-win-prediction/overview.
